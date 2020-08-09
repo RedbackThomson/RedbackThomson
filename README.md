@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Linkedin Badge](https://img.shields.io/badge/-thomsonnicholas-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomsonnicholas/)](https://www.linkedin.com/in/thomsonnicholas/)
+[![Medium Badge](https://img.shields.io/badge/-@RedbackThomson-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@RedbackThomson)](https://medium.com/@RedbackThomson)
+[![Website Badge](https://img.shields.io/badge/-redback.dev-5CCFF5?style=flat&logo=Google-Chrome&logoColor=white&link=https://redback.dev/)](https://redback.dev/)
