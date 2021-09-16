@@ -12,4 +12,4 @@ I'm a full-time developer at AWS, working on making Kubernetes feel routine.
 ### 🧠 I'm currently learning
 - Distributed messaging queues
 - Cloud-agnostic Kubernetes development
-- Scalable machine learning tooling
+- GitOps principles best practices
