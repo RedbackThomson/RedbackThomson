@@ -10,7 +10,7 @@ I work on the [AWS Controllers for K8s (ACK) project](https://github.com/aws-con
 
 ### 📚 My blog posts
 - [Comparing AWS Cloud Development Kit to AWS Controllers for K8s](https://aws.amazon.com/blogs/opensource/comparing-aws-cloud-development-kit-and-aws-controllers-for-kubernetes/)
-- [Amazon SageMaker Operators for Kubernetes](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-operators-for-kubernetes/)
+- [Introducing Amazon SageMaker Operators for Kubernetes](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-operators-for-kubernetes/)
 - [Using Razer Chroma to Access Overwatch](https://medium.com/@RedbackThomson/chroma-overwatch-e41aab4c4404)
 
 ### 🧠 I'm currently learning
