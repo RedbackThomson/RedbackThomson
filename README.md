@@ -4,10 +4,6 @@
 [![Medium Badge](https://img.shields.io/badge/-@RedbackThomson-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@RedbackThomson)](https://medium.com/@RedbackThomson)
 [![Website Badge](https://img.shields.io/badge/-redback.dev-5CCFF5?style=flat&logo=Google-Chrome&logoColor=white&link=https://redback.dev/)](https://redback.dev/)
 
-I'm a full-time developer at AWS, working towards making Kubernetes feel routine.
-
-I work on the [AWS Controllers for K8s (ACK) project](https://github.com/aws-controllers-k8s/)
-
 ### 📚 My blog posts
 - [Multi-Cluster GitOps using Amazon EKS, Flux and Crossplane](https://aws.amazon.com/blogs/containers/part-1-build-multi-cluster-gitops-using-amazon-eks-flux-cd-and-crossplane/)
   - [Part 2](https://aws.amazon.com/blogs/containers/part-2-multi-cluster-gitops-cluster-fleet-provisioning-and-bootstrapping/)
