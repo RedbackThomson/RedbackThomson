@@ -1,4 +1,4 @@
-## Hi, I'm [Nick](https://redback.dev/) 👋!
+## Hi, I'm Nick 👋!
 
 [![Linkedin Badge](https://img.shields.io/badge/-thomsonnicholas-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomsonnicholas/)](https://www.linkedin.com/in/thomsonnicholas/)
 [![Medium Badge](https://img.shields.io/badge/-@RedbackThomson-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@RedbackThomson)](https://medium.com/@RedbackThomson)
